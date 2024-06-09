@@ -4,4 +4,7 @@
 <br/>
 
 ### 기본 구문
-#### DROP TABLE '테이블 명'
+
+```sql
+DROP TABLE '테이블 명';
+```
